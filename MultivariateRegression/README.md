@@ -5,7 +5,7 @@ In this problem I tried to perform multivariate regression with regularized risk
 
 Files
 -----
-multireg.m:- Finds a model to t the multidimensional data using regularization
+multireg.m:- Finds a model to fit the multidimensional data using regularization
 
 crossvalidatereg.m:- crossvalidatereg.m splits the dataset in problem2.mat in to 2 halves and treats one half as train data and the other half as test. Then it finds the optimal value of regularization parameter lambda which doesn't overfit the data and the loss on test data is minimum.
 
