@@ -1,4 +1,6 @@
-MachineLearningJebara
+Logistic Regression
 =====================
 
-This is a repository for all the code that I wrote as part of Machine Learning 4771 course I took at Columbia University. 
+In this problem, I implemented logistic regression for binary classification on dataset4.mat. 
+
+logisticreg.m:- Used to perform logistic regression on dataset4. Provides 3 plots a) Decision boundary over data, b) Risk over the number of iterations and c) Number of misclassified points over the number of iterations for data in dataset4.
