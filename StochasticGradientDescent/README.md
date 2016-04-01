@@ -1,4 +1,5 @@
-MachineLearningJebara
+Stochastic Gradient Descent
 =====================
 
-This is a repository for all the code that I wrote as part of Machine Learning 4771 course I took at Columbia University. 
+In this problem, I tried to compare 3 different methods, gradient descent and two di↵erent flavors of stochastic gradient descent (SGD). For SGD, I used p random points to estimate the gradient in each round and experimented with p = 1 and p = 100.
+
