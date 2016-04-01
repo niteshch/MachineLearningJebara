@@ -1,4 +1,4 @@
-MachineLearningJebara
+K-Means for image segmentation 
 =====================
 
-This is a repository for all the code that I wrote as part of Machine Learning 4771 course I took at Columbia University. 
+Here I implemented K-Means algorithm for image segmentation on image 'trees.tiff' that comes packaged with Matlab. 
